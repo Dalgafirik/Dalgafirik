@@ -55,16 +55,24 @@
 </p>
 
 
+---------------
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dalgafirik&theme=default" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalgafirik&show_icons=true&locale=en&layout=compact" alt="dalgafirik" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dalgafirik&theme=default" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dalgafirik&theme=default" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dalgafirik&theme=default" width="32%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalgafirik&show_icons=true&locale=en" alt="dalgafirik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalgafirik&" alt="dalgafirik" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalgafirik&label=Profile%20views&color=0e75b6&style=flat" alt="dalgafirik" /> </p>
+
+
+
 
 
 
