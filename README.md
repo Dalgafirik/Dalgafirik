@@ -54,22 +54,16 @@
   </a>
 </p>
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=dalgafirik&layout=compact&cache_seconds=1800"
-alt="dalgafirik" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dalgafirik&theme=flat&margin-w=15" />
 </p>
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=dalgafirik&show_icons=true&cache_seconds=1800"
-alt="dalgafirik" />
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dalgafirik" />
 </p>
 
-<p>
-<img align="center"
-src="https://streak-stats.demolab.com/?user=dalgafirik"
-alt="dalgafirik" />
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=dalgafirik&data=followers,repositories,stars,commits" />
 </p>
 
 
