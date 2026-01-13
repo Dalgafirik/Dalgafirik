@@ -54,17 +54,6 @@
   </a>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dalgafirik&theme=flat&margin-w=15" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dalgafirik" />
-</p>
-
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=dalgafirik&data=followers,repositories,stars,commits" />
-</p>
 
 
 
