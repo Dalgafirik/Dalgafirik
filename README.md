@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **DevOps & JAVA**
 
 - 📫 How to reach me **muhammedeneskarakaya@gmail.com**
 
